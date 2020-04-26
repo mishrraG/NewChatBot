@@ -3,34 +3,34 @@
 
     <!--Watson Assistant service credentials-->
     <!-- REPLACE `ASSISTANT_ID_HERE` with ID of the Assistant to use -->
-    <string name="assistant_id">ASSISTANT_ID_HERE</string>
+    <string name="assistant_id">28176375-a0e9-4cc5-aacd-ae972c2b2f44</string>
 
     <!-- REPLACE `ASSISTANT_API_KEY_HERE` with Watson Assistant service API Key-->
-    <string name="assistant_apikey">ASSISTANT_API_KEY_HERE</string>
+    <string name="assistant_apikey">9MxT3LbVlbbVWGg3XaSj4ooj6mmZG1cagQ8GPYw_ZiFv</string>
 
     <!-- The URL provided below is for DALLAS region/location -->
     <!-- If the Assistant service is created in another region/lpcation -->
     <!-- REPLACE the URL with the one provided in the credentials of the service you created-->
-    <string name="assistant_url">https://gateway.watsonplatform.net/assistant/api</string>
+    <string name="assistant_url">https://api.eu-gb.assistant.watson.cloud.ibm.com/instances/2d4c8142-8a96-4e8f-8240-a25b05c03ddc</string>
 
 
     <!--Watson Speech To Text(STT) service credentials-->
     <!-- REPLACE `STT_API_KEY_HERE` with Watson Speech to Text service API Key-->
-    <string name="STT_apikey">STT_API_KEY_HERE</string>
+    <string name="STT_apikey">JwE9pjzhkPxv-3H1Qj9_HupSlMxtK01xkdpyPLPwjaj0</string>
     
     <!-- The URL provided below is for DALLAS region/location -->
     <!-- If the STT service is created in another region/lpcation -->
     <!-- REPLACE the URL with STT URL provided in the service credentials -->
-    <string name="STT_url">https://stream.watsonplatform.net/speech-to-text/api</string>
+    <string name="STT_url">https://api.eu-gb.speech-to-text.watson.cloud.ibm.com/instances/1fe4e096-a57e-44b9-a0c3-780035549602</string>
 
 
     <!--Watson Text To Speech(TTS) service credentials-->
     <!-- REPLACE `TTS_API_KEY_HERE` with Watson Text to Speech service API Key-->
-    <string name="TTS_apikey">TTS_API_KEY_HERE</string>
+    <string name="TTS_apikey">iDJKOSeKqZpFBTn1PlPCVdWwXN9bj7w_V9VfzCLFloU9</string>
     
     <!-- The URL provided below is for DALLAS region/location -->
     <!-- If the TTS service is created in another region/lpcation -->
     <!-- REPLACE the URL with TTS URL provided in the service credentials -->
-    <string name="TTS_url">https://stream.watsonplatform.net/text-to-speech/api</string>
+    <string name="TTS_url">https://api.eu-gb.text-to-speech.watson.cloud.ibm.com/instances/4e041418-89a9-4654-be50-b58c54b578f1</string>
 
 </resources>
