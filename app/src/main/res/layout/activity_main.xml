@@ -6,6 +6,7 @@
     android:fitsSystemWindows="true"
     tools:context="com.example.vmac.WatBot.MainActivity">
 
+
     <include layout="@layout/content_chat_room" />
 
 </android.support.design.widget.CoordinatorLayout>

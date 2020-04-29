@@ -1,6 +1,8 @@
 apply plugin: 'com.android.application'
 
 repositories {
+    jcenter()
+    maven { url "https://jitpack.io" }
     maven {
         url  "https://dl.bintray.com/ibm-cloud-sdks/ibm-cloud-sdk-repo"
     }
@@ -37,6 +39,7 @@ android {
 }
 
 dependencies {
+    implementation 'com.github.cooltechworks:WhatsappFormatter:v1.0'
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'com.android.support:appcompat-v7:26.1.0'
     implementation 'com.android.support:recyclerview-v7:26.1.0'

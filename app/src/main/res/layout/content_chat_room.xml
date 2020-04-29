@@ -38,12 +38,12 @@
 
         <EditText
             android:id="@+id/message"
+            android:background="@drawable/edittext_bg"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_marginLeft="16dp"
             android:layout_marginRight="10dp"
             android:layout_weight="3"
-            android:background="@null"
             android:hint="@string/what_s_on_your_mind"
             android:lines="1"
             android:paddingLeft="10dp" />
